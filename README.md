@@ -1,6 +1,6 @@
 # 🛡️ MalScanPro
 
-MalScanPro is a lightweight malware detection tool designed to analyze files, logs, and input patterns to identify potential malicious activity. It helps simulate basic threat detection techniques used in SOC (Security Operations Center) environments.
+**MalScanPro** is a lightweight malware detection tool designed to analyze files, logs, and input patterns to identify potential malicious activity. It helps simulate basic threat detection techniques used in SOC (Security Operations Center) environments.
 
 ---
 
@@ -41,6 +41,6 @@ It then assigns a **risk score** and classifies the threat level.
 - Python 3.x  
 - Rule-based detection logic  
 - String pattern matching  
-- Optional integration with Flask/Django for dashboard
+- Integration with Django for dashboard
 
 ---
