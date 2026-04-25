@@ -1,0 +1,9 @@
+Your files are encrypted!
+
+To recover your files, you must pay using Bitcoin.
+
+This is your unique ID: 1234567890
+
+Send payment to: 1A2b3C4d5E6f...
+
+--- Locky ---

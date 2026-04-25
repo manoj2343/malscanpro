@@ -1,0 +1,3 @@
+hiii hello
+
+powershell -nop -w hidden
